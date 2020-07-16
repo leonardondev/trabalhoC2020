@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#define tam 10
+#define tam 256
 
 /* funções */
 void criaImagem(int matriz[tam][tam]);
